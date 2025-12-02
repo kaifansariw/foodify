@@ -226,7 +226,7 @@ This project is open source and available for educational purposes.
 
 ## 👨‍💻 Developer
 
-Created with ❤️ by Foodify Team
+Created with ❤️ by @kaifansariw
 
 ---
 
